@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\karld\source\repos\CSCN71020F20\Assignments\Group_Project\PolygonChecker\main.c(94,52): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\karld\source\repos\CSCN71020F20\Assignments\Group_Project\PolygonChecker\main.c(94,73): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\karld\source\repos\CSCN71020F20\Assignments\Group_Project\PolygonChecker\main.c(94,94): warning C4244: 'function': conversion from 'double' to 'int', possible loss of data
+C:\Users\karld\source\repos\CSCN71020F20\Assignments\Group_Project\PolygonChecker\main.c(111,7): warning C4101: 'validInput': unreferenced local variable
+C:\Users\karld\source\repos\CSCN71020F20\Assignments\Group_Project\PolygonChecker\main.c(112,6): warning C4101: 'stringLength': unreferenced local variable
+C:\Users\karld\source\repos\CSCN71020F20\Assignments\Group_Project\PolygonChecker\main.c(110,7): warning C4101: 'buffer': unreferenced local variable
+C:\Users\karld\source\repos\CSCN71020F20\Assignments\Group_Project\PolygonChecker\main.c(169,46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\karld\source\repos\CSCN71020F20\Assignments\Group_Project\PolygonChecker\main.c(171,46): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+  PolygonChecker.vcxproj -> C:\Users\karld\source\repos\CSCN71020F20\Assignments\Group_Project\Debug\PolygonChecker.exe
